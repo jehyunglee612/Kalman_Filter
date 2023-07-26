@@ -13,8 +13,8 @@ P_ = [1]
 A = 1
 
 Q = 1
-R = 10
 K = [0]
+R = 10
 z = generate_random_data(30, 10, 1000)
 for i in range(1, 1000):
     # prediction
